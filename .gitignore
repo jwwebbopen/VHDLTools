@@ -1,0 +1,30 @@
+#******************************************************************
+#
+# .gitignore file
+#
+#******************************************************************
+#
+# J. Webb Consulting Confidential Copyright © 2017
+#
+#******************************************************************
+#
+# created on:	03/27/2017 
+# created by:	jwwebb
+# last edit on:	$DateTime: $ 
+# last edit by:	$Author: $
+# revision:     $Revision: $
+# comments:     Generated
+#
+#******************************************************************
+#
+# This is the .gitignore file for the VHDLTools git repository. 
+# It defines which files will be ignored by Git.
+#
+#******************************************************************
+
+#------------------------------------------------------------------
+# Mac OS X Auto-generated Files
+#------------------------------------------------------------------
+.DS_Store
+.*.swp
+
